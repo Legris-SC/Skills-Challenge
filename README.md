@@ -11,3 +11,6 @@ Selenium and WebDriver installation:
   1) Install python selenium package via command line:
       pip install -U selenium
   2) Install Chrome WebDriver to system path (http://chromedriver.chromium.org/)
+  
+Running the Selenium tests:
+  1) >python Core_tests.py
